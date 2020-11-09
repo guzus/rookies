@@ -46,3 +46,10 @@
 - Public IPv4 DNS: http://ec2-15-164-222-218.ap-northeast-2.compute.amazonaws.com
 - HTTP Domain: 
 - HTTPS Domain: 
+
+### 정명구([@guzus](https://github.com/guzus))
+- 한 마디: 아마존이 엄청난 것을 만들었네요!
+- Public IPv4 address: http://18.224.180.140
+- Public IPv4 DNS: http://ec2-18-224-180-140.us-east-2.compute.amazonaws.com
+- HTTP Domain: 
+- HTTPS Domain: 
